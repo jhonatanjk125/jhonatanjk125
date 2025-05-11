@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Jhonatan!
-- 👀 I’m interested in Python, Django, HTML, CSS, JavaScript and ReactJS
-- 🌱 I’m currently learning Django REST framework and docker.
-- 💞️ I’m looking to collaborate on anything I could be useful with where I can practice my skills!
-- 📫 You can reach me at jhonatanjk125@gmail.com
 
 <!---
 jhonatanjk125/jhonatanjk125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
